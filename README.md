@@ -1,9 +1,9 @@
-### Teste Técnico - Back-end
+### TESTE TÉCNICO - BACK-END
 
 #### OBJETIVO : 
 Deverá construir uma API RESTful usando a tecnologia NodeJS.
 
-#### Como rodar o projeto:
+#### COMO RODAR O PROJETO:
 Faça o clone do projeto e no terminal entre na pasta raiz e digite: npm install  e para iniciar o projeto digite: npm run dev
 
 ##### IMAGENS: PIPEDRIVE
